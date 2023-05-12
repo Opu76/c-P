@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=FjR4xIp9dww
+$ wine setup.exe
+cse@gub:~/Downloads/emu8086v408r11$ wine setup.exe
+
+
+
+
+
+
+
+
+wine setup.exe 
+
